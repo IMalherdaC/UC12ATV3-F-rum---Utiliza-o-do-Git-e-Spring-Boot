@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "descricao": "Desenvolvedor Java Pleno",
+    "requisitosObrigatorios": "Java 11, Spring Boot, MySQL",
+    "requisitosDesejaveis": "Docker, Kubernetes, AWS",
+    "remuneracao": "R$ 6.000,00",
+    "beneficios": "Vale Refeição, Vale Transporte, Plano de Saúde",
+    "localTrabalho": "São Paulo - SP (Híbrido)"
+  },
+  {
+    "id": 2,
+    "descricao": "Analista de QA",
+    "requisitosObrigatorios": "Experiência com testes manuais e automatizados",
+    "requisitosDesejaveis": "Conhecimento em Selenium, Cypress",
+    "remuneracao": "R$ 4.500,00",
+    "beneficios": "Vale Refeição, Vale Transporte",
+    "localTrabalho": "Remoto"
+  },
+  {
+    "id": 3,
+    "descricao": "Desenvolvedor Front-End React",
+    "requisitosObrigatorios": "React, JavaScript, HTML, CSS",
+    "requisitosDesejaveis": "Next.js, TypeScript",
+    "remuneracao": "R$ 7.000,00",
+    "beneficios": "Vale Refeição, Vale Transporte, Plano de Saúde, Home Office Flexível",
+    "localTrabalho": "São Paulo - SP (Híbrido)"
+  }
+]
+

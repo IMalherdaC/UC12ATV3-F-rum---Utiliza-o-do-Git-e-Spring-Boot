@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalhes da Vaga</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 th:text="${vaga.descricao}"></h1>
+        <p><strong>Requisitos Obrigatórios:</strong> <span th:text="${vaga.requisitosObrigatorios}"></span></p>
+        <p><strong>Requisitos Desejáveis:</strong> <span th:text="${vaga.requisitosDesejaveis}"></span></p>
+        <p><strong>Remuneração:</strong> <span th:text="${vaga.remuneracao}"></span></p>
+        <p><strong>Benefícios:</strong> <span th:text="${vaga.beneficios}"></span></p>
+        <p><strong>Local de Trabalho:</strong> <span th:text="${vaga.localTrabalho}"></span></p>
+        <a href="/vagas" class="button">Voltar para a Lista</a>
+    </div>
+</body>
+</html>
+
