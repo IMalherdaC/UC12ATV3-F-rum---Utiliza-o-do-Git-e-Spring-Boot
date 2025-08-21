@@ -21,3 +21,4 @@ Este é um projeto de frontend em Spring Boot para visualizar vagas de emprego.
 - CSS
 - JSON como API
 
+# Igor Malher da Costa #
